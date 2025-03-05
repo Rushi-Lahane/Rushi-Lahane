@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Kshitij Gehlot's languages" />
+ <img src="https://img.shields.io/badge/Languages-Java |Html|Css|Javascript |React -green.svg" alt="Kshitij Gehlot's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/KDGehlot2003">
 </p>
 
